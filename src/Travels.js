@@ -2,12 +2,10 @@ import React from "react";
 
 const Travels = props => (
     <figure>
-        <img src={props.image} alt={props.destination} />
-        <figcaption>
-            <p>{props.destination}</p>
-            <blockquote>{props.country}</blockquote>
-            <cite>{props.distance}</cite>
-        </figcaption>
+        <img style={{width:"500px"}} src={props.image} alt={props.destination} />
+        <div>
+            <p>{props.destination} - {props.country} - {props.distance}</p>
+        </div>
     </figure>
 );
 
