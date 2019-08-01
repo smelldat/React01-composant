@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9b7c824-8a15-44da-a3e4-5f549540ccc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Travel.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Travels.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Travels.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Travel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Travel.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Expedition05/CDI/GithubTracker" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -67,7 +65,10 @@
       <workItem from="1563971801939" duration="1905000" />
       <workItem from="1564044258217" duration="773000" />
       <workItem from="1564391964276" duration="18000" />
-      <workItem from="1564559953217" duration="3063000" />
+      <workItem from="1564559953217" duration="3802000" />
+      <workItem from="1564642888698" duration="1014000" />
+      <workItem from="1564656691439" duration="1000" />
+      <workItem from="1564663935670" duration="2597000" />
     </task>
     <servers />
   </component>
